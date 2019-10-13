@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SubmisionDicoding</string>
+    <string name="item_nama">Nama Buah</string>
+    <string name="heroes_name">nama</string>
+    <string name="detail">detail</string>
+    <string name="profile">Profile</string>
+    <string name="kibarbtc1_gmail_com">kibarbtc1@gmail.com</string>
+    <string name="khibar_pusaka">Khibar Pusaka</string>
+    <string name="daftar_buah">Daftar Buah</string>
+    <string name="asal">Asal</string>
+    <string name="icon_profile">icon_profile</string>
+</resources>
